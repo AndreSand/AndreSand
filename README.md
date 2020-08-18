@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!--
+
 **AndreSand/AndreSand** 
 
 Here are some ideas to get you started:
@@ -10,4 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://twitter.com/Andre__Sand
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I write medium blog post for fun https://medium.com/@AndreSand
+
 --> 
