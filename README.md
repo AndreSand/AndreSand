@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<!--
 
 **AndreSand/AndreSand** 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android 
 - 💬 Ask me about Android development, testing, CI/ CD, mobile security
@@ -12,4 +10,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I write medium blog post for fun https://medium.com/@AndreSand
 
---> 
+
